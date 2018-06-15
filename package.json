@@ -34,5 +34,8 @@
     "eslint-plugin-promise": "^3.8.0",
     "eslint-plugin-standard": "^3.1.0",
     "prettier": "^1.13.5"
+  },
+  "peerDependencies": {
+    "jest": ">= 23"
   }
 }
